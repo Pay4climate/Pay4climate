@@ -4,7 +4,7 @@
 <!---
 Pay4climate is a Pro-Climate Blockchain-Based Solution for Maximum Positive Impact
 --->
-We propose to banks or any PSP to collect a % on each client's transaction to contribute in the carbon removal markets. The client's contribution is converted into a stablecoin on Ripple via a fiat to crypto on-ramp solution. Then this amount is transferred to a client's dedicated smart contract that will pruchase Carbon removal certificates on existing marketplaces. This solution would require the creation of an SDK integrating the wallet and smart contract for automatic purchase on existing CDR marketplaces. Would also allow connecting to some kind of launchpad for Carbonremoval project (pre-finance projects). On top of that, CORCs and/or Hedge funds should be “blockchainized” in order to integrate them into the system…Either they follow, or we will have to find projects that are already on a public blockchain.
+We propose to banks or any PSP to collect a % on each client's transaction to contribute in the carbon removal markets. The client's contribution is converted into a stablecoin on Ripple via a fiat to crypto on-ramp solution. Then this amount is transferred to a client's dedicated smart contract that will pruchase Carbon removal certificates on existing marketplaces. This solution would require the creation of an SDK integrating the wallet and smart contract for automatic purchase on existing CDR marketplaces. Would also allow connecting to some kind of launchpad for Carbonremoval project (pre-finance projects). On top of that, CDRs and/or Hedge funds should be “blockchainized” in order to integrate them into the system…Either they follow, or we will have to find projects that are already on a public blockchain.
 
 
 LONG TERM VISION: 
