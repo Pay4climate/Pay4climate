@@ -10,4 +10,6 @@ A long-term perspective could be to work towards a DAO Funding where the funds c
 
 Technical process: 1/ Fiat-to-Crypto conversion via a licensed partner 2/ Contributions are collected into a Smart Contract dedicated to the client 3/ API Connection to existing CDR marketplaces to gather the suppliers 4/ The Smart Contract automatically purchases CDRs on the marketplaces according to the client's preferences 5/ The client can showcase his contribution metrics (tons of carbon removed) via a Widget scraping the blockchain data.
 
-More is yet to come...
+Since we are still defining the solution's specifications according to Fidomoney's needs, we can only provide a very basic smart contract at this stage demonstrating what we intend to do. 
+
+We will soon be able to write more comprehensive code once all the specifications will have been defined. 
